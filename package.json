@@ -1,0 +1,19 @@
+{
+  "name": "video-get-core",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonHK/node-video-get-core.git"
+  },
+  "author": "Jason Kwok",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JasonHK/node-video-get-core/issues"
+  },
+  "homepage": "https://github.com/JasonHK/node-video-get-core#readme"
+}
